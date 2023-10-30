@@ -1,13 +1,14 @@
 {
   "name": "jenny",
   "version": "1.0.0",
-  "description": "",
+  "description": "Beschreibung deiner Erweiterung",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dein Name",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.8.9",
